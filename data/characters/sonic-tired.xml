@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="sonic_tired" isPlayer="true" icon="icon-sonictired" color="#284289" y="250" flipX="true" holdTime="6.1">
+	<anim name="idle" anim="Sonic idle" x="-16" y="-4"/>
+	<anim name="calmDown" anim="Sonic calm down" x="47" y="37"/>
+	<anim name="singLEFT" anim="Sonic left" x="13" y="5"/>
+	<anim name="singDOWN" anim="Sonic down" x="-25" y="-12"/>
+	<anim name="singUP" anim="Sonic up" x="-27" y="-6"/>
+	<anim name="singRIGHT" anim="Sonic right" x="-26" y="1" indices="2..12"/>
+	<anim name="singLEFTmiss" anim="MISS Sonic left" x="23" y="5"/>
+	<anim name="singDOWNmiss" anim="MISS Sonic down" x="-24" y="5"/>
+	<anim name="singUPmiss" anim="MISS Sonic up" x="-27" y="2"/>
+	<anim name="singRIGHTmiss" anim="MISS Sonic right" x="-26" y="1" indices="2..4"/>
+</character>

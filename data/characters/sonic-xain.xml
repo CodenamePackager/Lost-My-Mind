@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="sonic_xain" icon="icon-sonic-lost" color="#000000" y="250" holdTime="6.1">
+	<anim name="idle" anim="Sonic idle"/>
+	<anim name="singLEFT" anim="Sonic left" x="27" y="8"/>
+	<anim name="singDOWN" anim="Sonic down" x="-10" y="-10"/>
+	<anim name="singUP" anim="Sonic up" x="-14" y="-4"/>
+	<anim name="singRIGHT" anim="Sonic right" x="-11" y="5" indices="2..12"/>
+</character>

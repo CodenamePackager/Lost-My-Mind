@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="sonic_desperate" isPlayer="true" icon="icon-sonic-getout" color="#284289" y="250" flipX="true" holdTime="6.1">
+	<anim name="idle" anim="Sonic idle" x="-18" y="-4"/>
+	<anim name="singLEFT" anim="Sonic left" x="-16" y="-6" indices="2..12"/>
+	<anim name="singDOWN" anim="Sonic down" x="-27" y="-18" indices="2..12"/>
+	<anim name="singUP" anim="Sonic up" x="-27" y="-16" indices="2..12"/>
+	<anim name="singRIGHT" anim="Sonic right" x="-29" y="2" indices="2..12"/>
+	<anim name="singLEFT-alt" anim="Sonic left ALT" x="-16" y="-6" indices="2..12"/>
+	<anim name="singDOWN-alt" anim="Sonic down ALT" x="-27" y="-18" indices="2..12"/>
+	<anim name="singUP-alt" anim="Sonic up ALT" x="-27" y="-16" indices="2..12"/>
+	<anim name="singRIGHT-alt" anim="Sonic right ALT" x="-29" y="2" indices="2..12"/>
+</character>
