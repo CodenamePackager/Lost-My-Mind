@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="dark_fleetway" isPlayer="true" icon="icon-dw" color="#1f0066" y="250" flipX="true" holdTime="6.1">
+	<anim name="idle-fake" anim="Sonic idle alt" loop="true"/>
+	<anim name="transformJustLaugh" anim="Sonic transformJustLaugh" x="26" y="52"/>
+	<anim name="singLEFT" anim="Fleet left" x="42" y="63" indices="0..14"/>
+	<anim name="singDOWN" anim="Fleet down" x="10" y="40" indices="0..14"/>
+	<anim name="singUP" anim="Fleet up" x="-10" y="11" indices="0..14"/>
+	<anim name="singDOWN-alt" anim="Fleet down PISSED" x="17" y="46"/>
+	<anim name="singUP-alt" anim="Fleet up PISSED" x="-13" y="30"/>
+	<anim name="singLEFT-alt" anim="Fleet left PISSED" x="50" y="64"/>
+	<anim name="singRIGHT-alt" anim="Fleet right PISSED" x="-13" y="57"/>
+	<anim name="singRIGHT" anim="Fleet right" x="-13" y="57" indices="2..12"/>
+	<anim name="idle" anim="Fleet idle" x="0" y="50" indices="0..14"/>
+	<anim name="idle-alt" anim="Fleet idle pissed" x="0" y="50" indices="0..14"/>
+	<anim name="firstDeath" anim="GAME OVER" x="0" y="50" indices="0..14"/>
+	<anim name="deathLoop" anim="GAME OVER loop" x="0" y="50" loop="true" indices="0..14"/>
+	<anim name="deathConfirm" anim="GAME OVER enter" x="0" y="50" indices="0..14"/>
+</character>
